@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\serializacion\\uncserecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\serializacion\\uncserecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\serializacion\\uncserializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\serializacion\\uncserializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\uncgraficas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\uncgraficas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\figuras en 3d\\uncfiguras3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\figuras en 3d\\uncfiguras3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\figuras en 3d\\uncobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\figuras en 3d\\uncobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\figuras en 3d\\uncpartes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\figuras en 3d\\uncpartes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\figuras en 3d\\uncpoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\figuras en 3d\\uncpoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\figuras en 3d\\uncpunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\figuras en 3d\\uncpunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\pantalla\\planocartesiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\pantalla\\planocartesiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\pantalla\\uncescenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\pantalla\\uncescenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\estructura de almacenamiento\\gestorde_entidades visuales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\estructura de almacenamiento\\gestorde_entidades visuales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\pantalla\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\pantalla\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\consoleapp3\\consoleapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F43B4032-4D3D-4E7D-B553-44C7D3BA2C48}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\consoleapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UncPunto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Figuras en 3d\\UncPunto.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Figuras en 3d\\UncPunto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Figuras en 3d\\UncPunto.cs",
+              "RelativeToolTip": "ConsoleApp3\\Figuras en 3d\\UncPunto.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowEYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:55:20.832Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UncPartes.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Figuras en 3d\\UncPartes.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Figuras en 3d\\UncPartes.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Figuras en 3d\\UncPartes.cs",
+              "RelativeToolTip": "ConsoleApp3\\Figuras en 3d\\UncPartes.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:55:33.263Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnCGraficas.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\UnCGraficas.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\UnCGraficas.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\UnCGraficas.cs",
+              "RelativeToolTip": "ConsoleApp3\\UnCGraficas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:35:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UncObjeto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Figuras en 3d\\UncObjeto.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Figuras en 3d\\UncObjeto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Figuras en 3d\\UncObjeto.cs",
+              "RelativeToolTip": "ConsoleApp3\\Figuras en 3d\\UncObjeto.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:20:28.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uncserializacion.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\serializacion\\uncserializacion.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\serializacion\\uncserializacion.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\serializacion\\uncserializacion.cs",
+              "RelativeToolTip": "ConsoleApp3\\serializacion\\uncserializacion.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T04:37:44.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Uncfiguras3d.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Figuras en 3d\\Uncfiguras3d.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Figuras en 3d\\Uncfiguras3d.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Figuras en 3d\\Uncfiguras3d.cs",
+              "RelativeToolTip": "ConsoleApp3\\Figuras en 3d\\Uncfiguras3d.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T01:02:50.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:21:30.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UncsereCOlor.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\serializacion\\UncsereCOlor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\serializacion\\UncsereCOlor.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\serializacion\\UncsereCOlor.cs",
+              "RelativeToolTip": "ConsoleApp3\\serializacion\\UncsereCOlor.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAkwCoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:33:29.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UncPoligono.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Figuras en 3d\\UncPoligono.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Figuras en 3d\\UncPoligono.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Figuras en 3d\\UncPoligono.cs",
+              "RelativeToolTip": "ConsoleApp3\\Figuras en 3d\\UncPoligono.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADwv1YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:36:48.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UncEscenario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Pantalla\\UncEscenario.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Pantalla\\UncEscenario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Pantalla\\UncEscenario.cs",
+              "RelativeToolTip": "ConsoleApp3\\Pantalla\\UncEscenario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:51:11.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlanoCartesiano.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Pantalla\\PlanoCartesiano.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Pantalla\\PlanoCartesiano.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Pantalla\\PlanoCartesiano.cs",
+              "RelativeToolTip": "ConsoleApp3\\Pantalla\\PlanoCartesiano.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:21:23.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GestorDe_Entidades Visuales.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Estructura de Almacenamiento\\GestorDe_Entidades Visuales.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Estructura de Almacenamiento\\GestorDe_Entidades Visuales.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Estructura de Almacenamiento\\GestorDe_Entidades Visuales.cs",
+              "RelativeToolTip": "ConsoleApp3\\Estructura de Almacenamiento\\GestorDe_Entidades Visuales.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwIcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:39:46.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Camara.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Pantalla\\Camara.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Pantalla\\Camara.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\Pantalla\\Camara.cs",
+              "RelativeToolTip": "ConsoleApp3\\Pantalla\\Camara.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:22:18.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsoleApp3.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\ConsoleApp3.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp3\\ConsoleApp3.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\ConsoleApp3\\ConsoleApp3.csproj",
+              "RelativeToolTip": "ConsoleApp3\\ConsoleApp3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T03:53:15.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
